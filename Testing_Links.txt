@@ -1,0 +1,30 @@
+TESTING METHODOLOGIES:
+
+
+
+JCOMMANDER JAR FILE:
+https://mvnrepository.com/artifact/com.beust/jcommander/1.27
+
+
+TESTNG JAR FILE:
+https://mvnrepository.com/artifact/org.testng/testng/7.4.0
+
+
+MySQl CONNECTOR:
+https://dev.mysql.com/downloads/connector/j/
+
+
+SELENIUM WEBDRIVER:
+https://www.selenium.dev/downloads/
+
+
+CHROMEDRIVER GIT:
+https://googlechromelabs.github.io/chrome-for-testing/#stable
+
+
+CHROMEDRIVER:
+https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.78/win64/chromedriver-win64.zip
+
+
+LINK TREE:
+https://linktr.ee/explorehuge
